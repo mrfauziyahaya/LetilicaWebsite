@@ -47,8 +47,9 @@ const Contact: React.FC = () => {
                 <MapPin className="text-sky-500 mt-1 mr-4" size={24} />
                 <div>
                   <h3 className="text-white font-bold uppercase mb-1">Headquarters</h3>
-                  <p className="text-slate-400">Cyberjaya, Malaysia</p>
-                  <p className="text-slate-500 text-sm mt-1">(Full address provided upon request)</p>
+                  <p className="text-slate-400">No 21-1, Jalan Wangsa Delima 2A,</p>
+                  <p className="text-slate-400">Pusat Bandar Wangsa Maju,</p>
+                  <p className="text-slate-400">53300 Kuala Lumpur, Malaysia</p>
                 </div>
               </div>
 
@@ -64,7 +65,7 @@ const Contact: React.FC = () => {
                 <Phone className="text-sky-500 mt-1 mr-4" size={24} />
                  <div>
                   <h3 className="text-white font-bold uppercase mb-1">Phone</h3>
-                  <p className="text-slate-400">+60 3-1234 5678</p>
+                  <p className="text-slate-400">+60172821709</p>
                 </div>
               </div>
 
